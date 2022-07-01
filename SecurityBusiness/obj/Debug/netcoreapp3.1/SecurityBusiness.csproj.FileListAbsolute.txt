@@ -1,0 +1,14 @@
+C:\Users\Paola Ortiz\source\repos\SecurityAPI\SecurityBusiness\bin\Debug\netcoreapp3.1\SecurityBusiness.deps.json
+C:\Users\Paola Ortiz\source\repos\SecurityAPI\SecurityBusiness\bin\Debug\netcoreapp3.1\SecurityBusiness.dll
+C:\Users\Paola Ortiz\source\repos\SecurityAPI\SecurityBusiness\bin\Debug\netcoreapp3.1\SecurityBusiness.pdb
+C:\Users\Paola Ortiz\source\repos\SecurityAPI\SecurityBusiness\obj\Debug\netcoreapp3.1\SecurityBusiness.csprojAssemblyReference.cache
+C:\Users\Paola Ortiz\source\repos\SecurityAPI\SecurityBusiness\obj\Debug\netcoreapp3.1\SecurityBusiness.AssemblyInfoInputs.cache
+C:\Users\Paola Ortiz\source\repos\SecurityAPI\SecurityBusiness\obj\Debug\netcoreapp3.1\SecurityBusiness.AssemblyInfo.cs
+C:\Users\Paola Ortiz\source\repos\SecurityAPI\SecurityBusiness\obj\Debug\netcoreapp3.1\SecurityBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Paola Ortiz\source\repos\SecurityAPI\SecurityBusiness\obj\Debug\netcoreapp3.1\SecurityBusiness.dll
+C:\Users\Paola Ortiz\source\repos\SecurityAPI\SecurityBusiness\obj\Debug\netcoreapp3.1\SecurityBusiness.pdb
+C:\Users\Paola Ortiz\source\repos\SecurityAPI\SecurityBusiness\bin\Debug\netcoreapp3.1\SecurityBusinessEntities.dll
+C:\Users\Paola Ortiz\source\repos\SecurityAPI\SecurityBusiness\bin\Debug\netcoreapp3.1\SecurityDataAccess.dll
+C:\Users\Paola Ortiz\source\repos\SecurityAPI\SecurityBusiness\bin\Debug\netcoreapp3.1\SecurityBusinessEntities.pdb
+C:\Users\Paola Ortiz\source\repos\SecurityAPI\SecurityBusiness\bin\Debug\netcoreapp3.1\SecurityDataAccess.pdb
+C:\Users\Paola Ortiz\source\repos\SecurityAPI\SecurityBusiness\obj\Debug\netcoreapp3.1\SecurityBusiness.csproj.CopyComplete

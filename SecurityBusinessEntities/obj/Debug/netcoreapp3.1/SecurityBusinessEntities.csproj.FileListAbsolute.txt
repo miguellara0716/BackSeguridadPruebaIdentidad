@@ -1,0 +1,9 @@
+C:\Users\Paola Ortiz\source\repos\SecurityAPI\SecurityBusinessEntities\bin\Debug\netcoreapp3.1\SecurityBusinessEntities.deps.json
+C:\Users\Paola Ortiz\source\repos\SecurityAPI\SecurityBusinessEntities\bin\Debug\netcoreapp3.1\SecurityBusinessEntities.dll
+C:\Users\Paola Ortiz\source\repos\SecurityAPI\SecurityBusinessEntities\bin\Debug\netcoreapp3.1\SecurityBusinessEntities.pdb
+C:\Users\Paola Ortiz\source\repos\SecurityAPI\SecurityBusinessEntities\obj\Debug\netcoreapp3.1\SecurityBusinessEntities.AssemblyInfoInputs.cache
+C:\Users\Paola Ortiz\source\repos\SecurityAPI\SecurityBusinessEntities\obj\Debug\netcoreapp3.1\SecurityBusinessEntities.AssemblyInfo.cs
+C:\Users\Paola Ortiz\source\repos\SecurityAPI\SecurityBusinessEntities\obj\Debug\netcoreapp3.1\SecurityBusinessEntities.csproj.CoreCompileInputs.cache
+C:\Users\Paola Ortiz\source\repos\SecurityAPI\SecurityBusinessEntities\obj\Debug\netcoreapp3.1\SecurityBusinessEntities.dll
+C:\Users\Paola Ortiz\source\repos\SecurityAPI\SecurityBusinessEntities\obj\Debug\netcoreapp3.1\SecurityBusinessEntities.pdb
+C:\Users\Paola Ortiz\source\repos\SecurityAPI\SecurityBusinessEntities\obj\Debug\netcoreapp3.1\SecurityBusinessEntities.csprojAssemblyReference.cache
